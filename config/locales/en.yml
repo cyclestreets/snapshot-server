@@ -19,6 +19,7 @@ en:
     application:
       title: "Snapshot Server"
       all_projects: "All projects"
+      sign_in: "Sign in"
       sign_out: "Sign out"
   nodes:
     show:
@@ -92,6 +93,7 @@ en:
       launch_rails_console: "Launch the rails console by running"
       make_life_easier: "It'll make life easier"
       more: "More\u2026"
+      no_projects: "There are currently no projects."
       run_these_commands: "Then run these commands (but pick your own password!)"
       slogan: "can I get you a hot beverage?"
       to_create_new_project: "To create a new project, you have to log in as an admin."
