@@ -18,6 +18,8 @@ en:
   layouts:
     application:
       title: "Snapshot Server"
+      all_projects: "All projects"
+      sign_out: "Sign out"
   nodes:
     show:
       title: "Details for node %{id}"
@@ -31,6 +33,7 @@ en:
     index:
       no_projects: "There are no projects on this server yet."
       title: "All Projects"
+      create_new_project: "Create new project"
     new:
       title: "Create a new project"
     update:
@@ -81,6 +84,8 @@ en:
     index:
       admin_account: "Admin account"
       admin_explanation: "In order to make this system fully function, you need to create an admin account. An admin account lets you create new projects, change settings and so on."
+      all_projects: "All projects"
+      create_new_project: "Create new project"
       currently_hosted: "There are currently %{count} projects hosted on this server. The most recently created projects are:"
       current_projects: "Current Projects"
       introduction: "This is a Snapshot server, for use with OpenStreetMap data. It hosts a few projects, each of which contains data that can be used as background layers to help people editing OpenStreetMap."
